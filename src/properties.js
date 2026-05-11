@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = "Scalable Trajectory Analysis with Apache Spark: Literature Collection";
 
 /**
  * Relative path to the data directory
@@ -39,7 +39,7 @@ var tagCloudOptions = [{
     minTagFrequency: 1
 }, {
     field: 'series',
-    title: 'Series',
+    title: 'Publication Venue',
     minTagFrequency: 1
 }];
 
@@ -47,15 +47,15 @@ var tagCloudOptions = [{
  * If BibTeX entries (and tags) should be editable
  * @type {boolean}
  */
-var editable = true;
+var editable = false;
 
 /**
  * Subtitle describing the paper the data is referring to (set to null to deactivate)
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Sample literature collection for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>',
-    id: 'Beck2016Visual'
+    html: 'Literature collection for <b>COMP4037 Research Methods Coursework 3</b>',
+    id: 'Bafna2026Trajectory'
 };
 
 /**
@@ -71,7 +71,7 @@ var extraPages = {
  */
 var customStyle = '';
 /* Example for simplified entries */
-//var customStyle = 'styles/custom_entries_simplified.css';
+//var customStyle = '';
 
 /**
  * Options for showing citation information (set to null to avoid showing any citation information)
