@@ -1,6 +1,6 @@
 const generatedBibEntries = {
-    "just2020jd": {
-        "author": "JUST",
+    "li2020jd": {
+        "author": "Li, Ruiyuan and He, Huajun and Wang, Rubin and Huang, Yanjun and Liu, Junwen and Ruan, Sijie",
         "booktitle": "Proceedings of the 2020 IEEE 36th International Conference on Data Engineering (ICDE)",
         "doi": "10.1109/ICDE48307.2020.00138",
         "keywords": "group:research, task:indexing, storage:storage-engine, model:spark",
@@ -10,19 +10,6 @@ const generatedBibEntries = {
         "title": "{JD} Unified Spatio-Temporal Storage Engine",
         "type": "inproceedings",
         "year": "2020"
-    },
-    "mazimpaka2016trajectory": {
-        "author": "Mazimpaka, Jovens and Timpf, Sabine",
-        "doi": "10.5311/JOSIS.2016.13.263",
-        "journal": "Journal of Spatial Information Science",
-        "keywords": "group:survey, task:methodology, review:general",
-        "number": "13",
-        "pages": "151--199",
-        "publisher": "Journal of Spatial Information Science",
-        "series": "Journal of Spatial Information Science",
-        "title": "Trajectory Data Mining: A Review of Methods and Applications",
-        "type": "article",
-        "year": "2016"
     },
     "parent2013semantic": {
         "author": "Parent, Christine and Spaccapietra, Stefano and Renso, Chiara and Andrienko, Gennady and Andrienko, Natalia and Bogorny, Vania and Damiani, Maria and Gkoulalas-Divanis, Aris and Mac\u00eado, Jose and Pelekis, Nikos and Theodoridis, Yannis and Yan, Zhixian",
@@ -54,7 +41,7 @@ const generatedBibEntries = {
     },
     "vargas2019smart": {
         "author": "Vargas-Solar, Genoveva and Castillo-Camporro, Ana-Sagrario and Zechinelli-Martini, J. and Espinosa-Oviedo, Javier-Alfonso",
-        "doi": "10.1016/j.future.2019.04.017",
+        "doi": "10.48550/arXiv.2012.04361",
         "journal": "Future Generation Computer Systems",
         "keywords": "group:research, task:smart-city, management:data, strategy:harvesting",
         "publisher": "Elsevier",
@@ -66,7 +53,7 @@ const generatedBibEntries = {
     },
     "wang2018hierarchical": {
         "author": "Wang, Jianhua and Wu, Zhonghai and Cheng, Jingsha",
-        "doi": "10.1186/s40537-018-0134-x",
+        "doi": "10.1080/17538947.2018.1523957",
         "journal": "Journal of Big Data",
         "keywords": "group:research, task:indexing, optimization:spark, storage:hdfs",
         "number": "1",
@@ -94,7 +81,7 @@ const generatedBibEntries = {
     },
     "yuan2021traffic": {
         "author": "Yuan, Haitao and Li, Guoliang",
-        "doi": "10.1109/TKDE.2021.3097721",
+        "doi": "10.1007/s41019-020-00151-z",
         "journal": "IEEE Transactions on Knowledge and Data Engineering",
         "keywords": "group:survey, task:prediction, traffic:spatio-temporal, domain:intelligent-transport",
         "number": "2",
@@ -119,6 +106,20 @@ const generatedBibEntries = {
         "type": "article",
         "volume": "26",
         "year": "2013"
+    },
+    "zheng2015trajectory": {
+        "author": "Zheng, Yu",
+        "doi": "10.1145/2743025",
+        "journal": "ACM Transactions on Intelligent Systems and Technology (TIST)",
+        "keywords": "group:survey, task:methodology, model:taxonomy",
+        "number": "3",
+        "pages": "1--41",
+        "publisher": "Association for Computing Machinery (ACM)",
+        "series": "ACM TIST",
+        "title": "{Trajectory Data Mining}",
+        "type": "article",
+        "volume": "6",
+        "year": "2015"
     },
     "zheng2020big": {
         "author": "Zheng, Yu",
