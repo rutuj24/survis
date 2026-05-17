@@ -1,17 +1,11 @@
 const userDefinedTagCategories = {
 	"group": {
-        "description": "The high-level category of the research paper (e.g., Survey, Research)."
+        "description": "The publication class (e.g., General Survey, Applied Empirical Research)."
     },
     "task": {
-        "description": "The specific research task or problem addressed (e.g., Indexing, Semantic Analysis)."
+        "description": "The primary trajectory-mining problem or analytical objective."
     },
     "model": {
-        "description": "The technical model or framework used (e.g., Spark, HDFS, Semantic)."
-    },
-    "optimization": {
-        "description": "The type of performance optimization discussed."
-    },
-    "applications": {
-        "description": "The real-world application domain."
+        "description": "The execution framework, structural methodology, or algorithm class."
     }
 }
